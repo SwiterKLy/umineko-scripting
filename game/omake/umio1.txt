@@ -1,5 +1,5 @@
 *o1_0
-bgmplay 89,71,0
+bgmplay 3,20,0
 wait 2000
 seplay 1,27,71
 lbg s0_3,"black"
