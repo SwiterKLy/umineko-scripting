@@ -3,7 +3,7 @@
 	if %CHIRU_MODE = 0 add $Free1,"{p:20:{a:c:Рондо ведьмы и рассудка}{n}}"
 	if %CHIRU_MODE = 1 add $Free1,"{p:20:{a:c:Ноктюрн правды и иллюзий}{n}}"
 	add $Free1,"{p:20:{a:c:{n}}{n}}"
-	add $Free1,"{p:20:{a:c:Порт с PlayStation®3 выполнен}{n}}"
+	add $Free1,"{p:20:{a:c:Поррт с PlayStation®3 выполнен}{n}}"
 	add $Free1,"{p:20:{a:c:Umineko Project}{n}}"
 	add $Free1,"{p:20:{a:c:{n}}{n}}"
 	add $Free1,"{p:21:{a:c:Перевод}{n}}"
